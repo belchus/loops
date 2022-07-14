@@ -1,4 +1,3 @@
-
 let textoAMostrar = prompt("Ingrese las palabras que quiera ver en el texto-Ingrese ESC cuando quiera terminar")
 let cadena
 

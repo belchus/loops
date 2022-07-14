@@ -1,10 +1,15 @@
 .titulo{
     text-align: center;
-    color: antiquewhite;
+    color: black;
     font-size: 90px;
     font-family: 'Ms Madi', cursive;
+    margin-top: 60px;
 }
-
+.subtitulo{
+    text-align: center;
+    margin-top: 110px;
+    font-size: 40px;
+}
 body{
     background-color: aquamarine;
 }
